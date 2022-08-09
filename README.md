@@ -31,5 +31,3 @@ Precipitation data would be very valuable given that people are more likely to b
 
 #### Hottest Days
 Another interesting query with possibly valuable results would be to examine what days are usually the hottest of the year. If we examined the top 10 temperatures for each year and compared the dates, we could try to identify a trend. If we found that the hottest days were consistently during a certain part of the summer, we could plan some type of promotion for those days since, as I mentioned in the summary section, hotter days should lead to more business. Something along the lines of buy one ice cream cone get one free, or rent two surfboards for an hour get a third one for free, etc. This promotion could drive more business to us and away from our competitors on those high volume days.
-
-HAVE TO PUT IN THE QUERIES!!!
